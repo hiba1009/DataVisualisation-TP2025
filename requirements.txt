@@ -4,4 +4,5 @@ pandas
 dbt-core
 dbt-postgres
 dlt[parquet]
+SQLAlchemy
 prefect
